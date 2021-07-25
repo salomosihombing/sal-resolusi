@@ -7,4 +7,6 @@ Rencana Konten
   ^ Laravel
   ^ Codeigneter
 - interview
+- python
+- PPL
 - vlog
