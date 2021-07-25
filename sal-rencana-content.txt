@@ -3,9 +3,11 @@ Rencana Konten
   ^ React.js
   ^ Angular.js
   ^ Node.js
+  ^ Vue.js
 - PHP Frameworks
   ^ Laravel
   ^ Codeigneter
+- Data Structure
 - interview
 - python
 - PPL
